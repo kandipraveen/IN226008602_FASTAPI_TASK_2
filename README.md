@@ -68,10 +68,6 @@ Start the FastAPI server:
 
 uvicorn main:app --reload
 
-Access the interactive API documentation:
-
-[http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
-
 ## Notes
 
 All endpoints were tested using Swagger UI, and screenshots of the outputs are included in this repository as required by the assignment submission guidelines.
